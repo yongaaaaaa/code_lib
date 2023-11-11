@@ -8,4 +8,6 @@ for coin in coin_type:
   count = count + n // coin
   n = n % coin
 
+
+
 print(count)
